@@ -16,7 +16,7 @@ yarn dev
 
 ## Static Generation
 
-This will create the `dist/` directory for publishing to static hosting:
+This will create the `dist/` directory for publishing to static hostings:
 
 ```bash
 yarn generate
