@@ -28,10 +28,9 @@
           />
         </div>
       </div>
-      <div class="xl:text-lg font-medium leading-relaxed text-center">
-        <p>
-          SAnjay
-        </p>
+      <div class="xl:text-lg font-medium leading-relaxed text-center flex justify-center ">
+        <img src="../static/icon.png" class="w-64 h-auto"/>
+        
       </div>
     </div>
   </div>
