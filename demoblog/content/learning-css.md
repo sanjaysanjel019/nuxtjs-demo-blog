@@ -17,7 +17,6 @@ link: https://codesandbox.io/embed/nuxt-content-l164h?hidenavigation=1&theme=dar
 ---
 
 
-
 In this series of the blog post, I will be writing about CSS properties that I never knew existed. I am not much of a frontend developer by myself but I found these properties to be pretty interesting. So,I thought it will be a great idea to share what I learnt which will further enhance my learning and information retaining process too.
 
 
