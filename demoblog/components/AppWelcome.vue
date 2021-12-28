@@ -6,7 +6,7 @@
           <img
             src="/welcome/content-light.svg"
             alt="welcome image"
-            height="100"
+            height="30"
             class="light-img w-full"
           />
           <img
@@ -29,7 +29,7 @@
         </div>
       </div>
       <div class="xl:text-lg font-medium leading-relaxed text-center flex justify-center ">
-        <img src="../static/icon.png" class="w-64 h-auto"/>
+        <img src="../static/icon.png" class="w-32 h-auto"/>
         
       </div>
     </div>
