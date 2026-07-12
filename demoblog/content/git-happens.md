@@ -32,7 +32,6 @@ I suggest you to make a folder and then clone the repo for easiess. So,as soon a
 
 You'll find a folder called **Dumper**.  Inside it you can find a file called `gitdumper.sh`. 
 
-
 As we all know this room is somehow dedicated to Git, I just tried to access .git directory at the end. Once you visit the **IP_ADDR/.git ** link you may be redirected to the page like below.
 
 ![git2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1598602572048/Hlzrj8ksd.png)
