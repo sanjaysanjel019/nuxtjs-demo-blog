@@ -20,7 +20,7 @@ link: https://codesandbox.io/embed/nuxt-content-l164h?hidenavigation=1&theme=dar
 
 Tokenization is one of the most basic things one learns when they want to dive deep into how LLMs actually function. Though the primary objective is very simple, the way things are implemented to optimize the LLMs are very thoughtful and intersting.
 
-In this post, we'll be learning about how Byte-pair encoding words, what it is actually used for, how it's implemented in major LLMs and  try to understand the core of LLMs as much as possible.
+In this post, we'll be learning about how Byte-pair encoding words, what it is actually used for, how it's implemented in major LLMs and try to understand the core of LLMs as much as possible.
 
 ***So why do you need tokenization in the first place ?***
 
